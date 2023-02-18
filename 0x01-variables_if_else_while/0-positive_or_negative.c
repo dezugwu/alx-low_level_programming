@@ -4,6 +4,7 @@
 
 /**
  * Main - Print if the number is positive,negetive or zero
+ * Description: My first C code
  * Return: Always 0 (success)
 */
 
