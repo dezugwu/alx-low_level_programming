@@ -4,11 +4,10 @@
 
 /**
  * Main - Print if the number is positive,negetive or zero
- *
- * Return: Always 0 (success)
+ * Return: Always 0
 */
-
 int main(void)
+
 {
 	int n;
 
